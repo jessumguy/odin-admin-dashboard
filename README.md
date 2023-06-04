@@ -1,6 +1,6 @@
 # odin-admin-dashboard
 
-Demo:
+Demo: https://jessumguy.github.io/odin-admin-dashboard/
 
 
 
@@ -8,9 +8,11 @@ Demo:
 
 I quite enjoyed this project to the point that I'd say it was theraputic in nature. No real frustration to note of.
 
-Used a combination of both Grid and Flexbox to layout the page.
+Used a combination of both Grid and Flexbox to layout the page. 
 
-Shortcomings:
+The css file does feel large and messy. A preprocessor may help in this regard.
+
+**Weaknesses:**
 
 1. Font Size feel too big at normal resolution - May need to play around with the font weights.
 
