@@ -2,7 +2,9 @@
 
 Demo: https://jessumguy.github.io/odin-admin-dashboard/
 
-123
+| 75% Zoom | 100% Zoom | gif |
+| --- | --- |--- |
+|![image](https://github.com/jessumguy/odin-admin-dashboard/assets/43509228/350be026-e201-4ef6-a35b-537e4b95fd47)|![image](https://github.com/jessumguy/odin-admin-dashboard/assets/43509228/1261c384-3286-4f27-9565-8fd9b8a96b02)|  ![brave_i0maUNO2l0](https://github.com/jessumguy/odin-admin-dashboard/assets/43509228/53322add-9134-4fec-b782-5292a797ac0a)|
 
 **04/06/2023 Reflection:**
 
